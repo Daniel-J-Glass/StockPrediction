@@ -1,2 +1,3 @@
-*.csv
-*.npy
+Data/*.csv
+ProcessedData/*.npy
+ProcessedData/*.csv
